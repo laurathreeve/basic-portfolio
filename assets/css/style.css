@@ -1,0 +1,65 @@
+body {
+    background-color: #c2bfbf;
+}
+
+.navbar {
+    position: fixed;
+    height: 76px;
+    width: 100%;
+    background-color: white;
+    border-bottom: #4aaaa5;
+    border-bottom-width: 5px;
+    
+}
+
+.yourname {
+    background-color: #4aaaa5;
+    position: absolute;
+    margin-left: 220px;
+    width: 212px;
+    height: 76px;
+    font-family: Georgia, Times, Times New Roman, serif;
+    font-size: 25px;
+}
+
+.navtext {
+    float: right;
+    margin-right: 204px;
+    margin-top: 25px;
+    word-spacing: 23px;
+    font-size: 30px;
+    font-family: Georgia, Times, Times New Roman, serif;
+}
+
+#biopic {
+
+    float: left;
+    margin: 10px;
+}
+
+#bio {
+    background-color: #e6dede;
+    float: left;
+    width: 934px;
+    margin-left: 227px;
+    margin-top: 144px;
+    height: 364px;
+}
+
+.footer {
+    float: left;
+    height: 80px;
+    width: 100%;
+    background-color: rgb(88, 86, 86);
+    margin-top: 561px;
+    position: absolute;
+
+#aboutcontent {
+    float: left;
+    padding: 10px;
+}
+
+.nametext {
+    font-size: 40px;
+    position: relative;
+}
